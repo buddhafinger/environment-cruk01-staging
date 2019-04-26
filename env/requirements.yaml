@@ -1,7 +1,4 @@
 dependencies:
-- name: croc-hunter-jenkinsx
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.44
 - name: easter-demo01
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
